@@ -45,7 +45,7 @@ const categories = [
     icon: <Umbrella className="text-red-500" />,
     items: [
       "Ton traitement habituel",
-      "Anti-mal de mer pour Adri (Mercalm, bracelets, etc.)",
+      "Anti-mal de mer pour Adri et Elo miskines (Mercalm, bracelets, etc.)",
       "Pansements waterproof",
       "Désinfectant"
     ]
