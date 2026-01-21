@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import Countdown from "@/components/Countdown";
 
 
 import {
@@ -25,6 +26,9 @@ export default function Home() {
           </p>
           <div className="mt-8 inline-block border border-white px-6 py-2 rounded-full font-medium">
             06 - 10 JUILLET
+          </div>
+          <div className="mt-8 inline-block border border-white px-6 py-2 rounded-full font-medium">
+            Compte à rebours à ajouter ici
           </div>
         </div>
       </section>
