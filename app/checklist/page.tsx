@@ -14,7 +14,8 @@ const categories = [
       "Chaussures de pont ou bottes (semelles claires, non marquantes)",
       "Maillot de bain & serviette microfibre",
       "Casquette ou chapeau (avec attache si possible)",
-      "Tenue de rechange légère pour se la péter dans les ports"
+      "Tenue de rechange légère pour se la péter dans les ports",
+      "Cordon pour lunettes",
     ]
   },
   {
