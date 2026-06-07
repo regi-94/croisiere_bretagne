@@ -25,7 +25,7 @@ export default function Home() {
             Expédition Bretagne Sud
           </p>
           <div className="mt-8 inline-block border border-white px-6 py-2 rounded-full font-medium">
-            06 - 10 JUILLET
+            03 - 10 JUILLET
           </div>
           <div className="mt-4 mb-16">
           <Countdown/>
